@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\spiderpit2.csglwindow.resources
+obj\Debug\spiderpit2.Form1.resources
+obj\Debug\spiderpit2.Properties.Resources.resources
+obj\Debug\spiderpit2.csproj.GenerateResource.Cache
+bin\Debug\spiderpit2.exe
+bin\Debug\spiderpit2.pdb
+bin\Debug\csgl.dll
+bin\Debug\csgl.pdb
+obj\Debug\spiderpit2.exe
+obj\Debug\spiderpit2.pdb

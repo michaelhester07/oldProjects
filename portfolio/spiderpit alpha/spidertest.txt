@@ -1,0 +1,6 @@
+5
+bwidle.ms3d
+bwattack.ms3d
+bwrun.ms3d
+bwdie.ms3d
+bwstun.ms3d
